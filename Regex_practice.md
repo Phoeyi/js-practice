@@ -22,5 +22,6 @@
 #### **[JS]的正則應用：**
 
 - [PJCHENder ── [JS] 正則表達式（Regular Expression, regex）](https://pjchender.dev/javascript/js-regex/)
+
   除了介紹JS的正則相關函式：`test()、exec()、match()、replace()、search()、split()`，底下也做了超級詳盡的介紹，甚至還有常用例子，超好用的一個網站。
 
